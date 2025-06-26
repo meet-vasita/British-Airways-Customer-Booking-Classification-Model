@@ -8,3 +8,5 @@
 2025-06-26 18:30:06,594 - INFO - Balancing the Dataset
 2025-06-26 18:30:12,800 - INFO - Applying PCA
 2025-06-26 18:30:12,842 - INFO - Training the Model.......
+2025-06-26 18:30:16,998 - INFO - Model Training Completed Successfully
+2025-06-26 18:30:17,006 - INFO - The Model Accuracy After Training: 85.45%
