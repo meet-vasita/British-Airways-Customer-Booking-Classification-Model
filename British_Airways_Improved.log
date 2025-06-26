@@ -1,13 +1,13 @@
-2025-06-26 19:07:07,883 - INFO - Dataset Imported Successfully
-2025-06-26 19:07:07,892 - INFO - Importing the Dataset
-2025-06-26 19:07:08,000 - INFO - Dataset Imported Successfully
-2025-06-26 19:07:08,854 - INFO - Checking for the outliers
-2025-06-26 19:07:08,900 - INFO - Checking for Outliers Process done successfully
-2025-06-26 19:07:08,948 - INFO - Performing Feature Engineering
-2025-06-26 19:07:08,969 - INFO - Label Encoding the Categorical Columns
-2025-06-26 19:07:09,148 - INFO - Checking for the Variance Inflation Rate
-2025-06-26 19:07:09,685 - INFO - Balancing the Dataset
-2025-06-26 19:07:15,781 - INFO - Applying PCA
-2025-06-26 19:07:15,840 - INFO - Training the Model.......
-2025-06-26 19:07:20,015 - INFO - Model Training Completed Successfully
-2025-06-26 19:07:20,024 - INFO - The Model Accuracy After Training: 85.43%
+2025-06-26 19:14:56,940 - INFO - Dataset Imported Successfully
+2025-06-26 19:14:56,949 - INFO - Importing the Dataset
+2025-06-26 19:14:57,034 - INFO - Dataset Imported Successfully
+2025-06-26 19:14:57,650 - INFO - Checking for the outliers
+2025-06-26 19:14:57,680 - INFO - Checking for Outliers Process done successfully
+2025-06-26 19:14:57,705 - INFO - Performing Feature Engineering
+2025-06-26 19:14:57,720 - INFO - Label Encoding the Categorical Columns
+2025-06-26 19:14:57,803 - INFO - Checking for the Variance Inflation Rate
+2025-06-26 19:14:58,283 - INFO - Balancing the Dataset
+2025-06-26 19:15:03,901 - INFO - Applying PCA
+2025-06-26 19:15:03,943 - INFO - Training the Model.......
+2025-06-26 19:15:08,342 - INFO - Model Training Completed Successfully
+2025-06-26 19:15:08,351 - INFO - The Model Accuracy After Training: 85.43%
