@@ -73,8 +73,6 @@ df['lead_time_ratio'] = df['purchase_lead'] / (df['length_of_stay'] + 1)
 df['is_weekend_flight'] = df['flight_day'].isin(['Saturday', 'Sunday']).astype(int)
 df['flight_period'] = df['flight_hour'].apply(hour_bin)
 
-print(df.columns)
-
 # CRITICAL: Outlier treatment BEFORE train-test split (as in original)
 def replace_outliers_with_median(data, exclude_cols=['booking_complete']):
     for col in data.select_dtypes(include='number').columns:
