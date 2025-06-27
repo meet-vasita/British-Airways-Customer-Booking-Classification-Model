@@ -5,3 +5,4 @@ scikit-learn
 catboost
 joblib
 imblearn
+seaborn
