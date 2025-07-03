@@ -103,7 +103,7 @@ for col in categorical_columns:
 
 
 # Prepare features and target (same feature selection as original)
-X = df.drop(columns=['booking_complete','num_passengers','trip_type', 'route', 'booking_origin'], errors='ignore',axis = 1)
+X = df.drop(columns=['booking_complete', 'route', 'booking_origin'], errors='ignore',axis = 1)
 y = df['booking_complete']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42, stratify=y)
