@@ -1,1 +1,12 @@
-2025-06-27 17:38:24,781 - INFO - Dataset Imported Successfully
+2025-07-04 02:19:52,456 - INFO - Dataset Imported Successfully
+2025-07-04 02:19:52,464 - INFO - Importing The Dataset
+2025-07-04 02:19:53,326 - INFO - Checking Variance Inflation Rate
+2025-07-04 02:19:53,433 - INFO - Performing Feature Engineering
+2025-07-04 02:19:53,451 - INFO - Capping Outliers
+2025-07-04 02:19:53,496 - INFO - Applying the Label Encoder to Categorical Columns
+2025-07-04 02:19:53,676 - INFO - Splitting the Dataset in train test split
+2025-07-04 02:19:53,700 - INFO - Applying Smote Technique
+2025-07-04 02:19:53,755 - INFO - Scaling the Features
+2025-07-04 02:19:53,772 - INFO - Training the Model
+2025-07-04 02:19:59,628 - INFO - Model Training Done....
+2025-07-04 02:19:59,637 - INFO - The Model Accuracy After Training: 84.31%

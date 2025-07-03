@@ -220,7 +220,7 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 2,Internet,RoundTrip,417,22,4,Sun,AKLKUL,New Zealand,1,0,1,8.83,0
 2,Internet,RoundTrip,159,21,8,Fri,AKLKUL,New Zealand,1,0,0,8.83,0
 2,Internet,RoundTrip,173,40,8,Sun,AKLKUL,New Zealand,0,0,0,8.83,0
-2,Internet,RoundTrip,92,65,13,Mon,AKLKUL,Réunion,1,0,0,8.83,0
+2,Internet,RoundTrip,92,65,13,Mon,AKLKUL,Rï¿½union,1,0,0,8.83,0
 1,Internet,RoundTrip,106,208,4,Thu,AKLKUL,Japan,1,0,0,8.83,0
 3,Internet,RoundTrip,316,35,16,Tue,AKLKUL,Malaysia,0,0,0,8.83,0
 2,Internet,RoundTrip,245,27,11,Mon,AKLKUL,New Zealand,0,0,0,8.83,1
@@ -1189,7 +1189,7 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 2,Internet,RoundTrip,243,21,6,Sat,AKLKUL,Singapore,1,0,1,8.83,0
 2,Internet,RoundTrip,202,17,7,Thu,AKLKUL,Malaysia,1,0,0,8.83,0
 1,Internet,RoundTrip,5,25,17,Sat,AKLKUL,Malaysia,1,0,0,8.83,0
-2,Internet,RoundTrip,49,261,13,Sun,AKLKUL,Réunion,0,0,0,8.83,0
+2,Internet,RoundTrip,49,261,13,Sun,AKLKUL,Rï¿½union,0,0,0,8.83,0
 1,Internet,RoundTrip,92,22,1,Wed,AKLKUL,New Zealand,0,0,0,8.83,0
 1,Internet,RoundTrip,109,45,5,Mon,AKLKUL,Malaysia,0,0,0,8.83,0
 1,Internet,RoundTrip,109,21,14,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
@@ -1207,7 +1207,7 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 3,Internet,RoundTrip,336,17,8,Fri,AKLKUL,Malaysia,0,0,0,8.83,0
 1,Internet,OneWay,7,1,14,Mon,AKLKUL,New Zealand,0,0,0,8.83,0
 2,Internet,RoundTrip,277,20,13,Thu,AKLKUL,Malaysia,1,1,1,8.83,0
-1,Internet,RoundTrip,307,32,15,Thu,AKLKUL,Réunion,1,0,1,8.83,1
+1,Internet,RoundTrip,307,32,15,Thu,AKLKUL,Rï¿½union,1,0,1,8.83,1
 1,Mobile,RoundTrip,199,17,2,Sun,AKLKUL,Malaysia,0,0,0,8.83,0
 2,Internet,RoundTrip,183,19,22,Tue,AKLKUL,New Zealand,1,0,1,8.83,0
 2,Internet,RoundTrip,242,18,1,Sun,AKLKUL,Thailand,0,1,0,8.83,0
@@ -1288,7 +1288,7 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 2,Internet,RoundTrip,159,72,1,Sun,AKLKUL,New Zealand,1,1,1,8.83,0
 1,Internet,RoundTrip,16,112,18,Thu,AKLKUL,New Zealand,1,0,1,8.83,0
 3,Internet,RoundTrip,135,22,14,Wed,AKLKUL,Malaysia,1,0,1,8.83,0
-2,Internet,RoundTrip,122,28,13,Sat,AKLKUL,Réunion,0,0,0,8.83,0
+2,Internet,RoundTrip,122,28,13,Sat,AKLKUL,Rï¿½union,0,0,0,8.83,0
 2,Internet,RoundTrip,308,18,8,Wed,AKLKUL,Turkey,0,0,0,8.83,0
 1,Internet,RoundTrip,320,19,2,Sat,AKLKUL,Malaysia,0,0,0,8.83,0
 1,Internet,RoundTrip,309,63,5,Tue,AKLKUL,Malaysia,0,0,1,8.83,0
@@ -4146,7 +4146,7 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 3,Internet,RoundTrip,215,23,16,Sun,CGKMEL,Indonesia,1,0,0,8.83,0
 1,Internet,RoundTrip,11,71,6,Tue,CGKMEL,Indonesia,1,0,1,8.83,0
 1,Internet,RoundTrip,1,21,3,Mon,CGKMEL,Australia,0,0,0,8.83,0
-2,Internet,RoundTrip,11,22,17,Mon,CGKMRU,Réunion,1,1,1,7.42,0
+2,Internet,RoundTrip,11,22,17,Mon,CGKMRU,Rï¿½union,1,1,1,7.42,0
 1,Internet,RoundTrip,18,18,2,Wed,CGKOOL,Indonesia,0,1,0,8.83,0
 1,Internet,RoundTrip,151,28,3,Mon,CGKOOL,United States,1,1,1,8.83,0
 3,Internet,RoundTrip,387,31,7,Thu,CGKOOL,Australia,1,1,0,8.83,0
@@ -8464,7 +8464,7 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 2,Internet,RoundTrip,2,53,3,Sat,DELMNL,Philippines,1,0,0,5.52,0
 3,Internet,RoundTrip,10,31,6,Tue,DELMNL,Philippines,1,0,1,5.52,0
 2,Internet,RoundTrip,77,36,16,Mon,DELMRU,India,1,0,0,7.42,0
-2,Internet,RoundTrip,108,27,7,Sat,DELMRU,Réunion,1,1,1,7.42,0
+2,Internet,RoundTrip,108,27,7,Sat,DELMRU,Rï¿½union,1,1,1,7.42,0
 1,Internet,RoundTrip,86,29,10,Fri,DELMRU,Mauritius,1,1,1,7.42,0
 2,Internet,RoundTrip,75,79,5,Sun,DELMYY,Brunei,1,0,0,5.52,0
 2,Internet,RoundTrip,8,32,12,Sun,DELMYY,India,0,0,0,5.52,0
@@ -10834,10 +10834,10 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 2,Mobile,RoundTrip,87,19,11,Sun,DPSMEL,Australia,0,1,1,8.83,0
 2,Internet,RoundTrip,47,22,11,Tue,DPSMEL,Australia,1,1,0,8.83,0
 1,Internet,RoundTrip,36,29,2,Mon,DPSMEL,Australia,1,0,1,8.83,0
-1,Internet,RoundTrip,48,18,7,Mon,DPSMRU,Réunion,1,1,1,7.42,0
-1,Internet,OneWay,19,179,13,Sat,DPSMRU,Réunion,1,1,1,7.42,0
-2,Internet,RoundTrip,17,23,9,Sat,DPSMRU,Réunion,1,1,0,7.42,0
-2,Internet,RoundTrip,67,20,13,Wed,DPSMRU,Réunion,1,1,1,7.42,0
+1,Internet,RoundTrip,48,18,7,Mon,DPSMRU,Rï¿½union,1,1,1,7.42,0
+1,Internet,OneWay,19,179,13,Sat,DPSMRU,Rï¿½union,1,1,1,7.42,0
+2,Internet,RoundTrip,17,23,9,Sat,DPSMRU,Rï¿½union,1,1,0,7.42,0
+2,Internet,RoundTrip,67,20,13,Wed,DPSMRU,Rï¿½union,1,1,1,7.42,0
 5,Internet,RoundTrip,69,19,9,Fri,DPSMRU,Indonesia,1,1,1,7.42,0
 1,Internet,RoundTrip,33,20,18,Wed,DPSMRU,Indonesia,1,1,1,7.42,1
 1,Internet,RoundTrip,10,22,16,Thu,DPSMRU,Mauritius,1,0,0,7.42,0
@@ -18313,7 +18313,7 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 1,Mobile,RoundTrip,63,43,17,Mon,MAAPER,Australia,1,0,0,5.62,0
 1,Internet,RoundTrip,89,18,5,Sat,MAAPER,Australia,0,0,0,5.62,0
 1,Internet,RoundTrip,32,32,12,Mon,MAAPER,Australia,1,0,0,5.62,0
-1,Internet,RoundTrip,50,23,15,Mon,MAAPER,Réunion,1,0,0,5.62,0
+1,Internet,RoundTrip,50,23,15,Mon,MAAPER,Rï¿½union,1,0,0,5.62,0
 1,Internet,RoundTrip,4,105,14,Tue,MAAPER,Australia,1,0,0,5.62,0
 1,Internet,RoundTrip,20,24,13,Thu,MAAPER,Australia,0,0,0,5.62,0
 1,Internet,RoundTrip,50,17,1,Thu,MAAPER,Australia,1,0,1,5.62,0
@@ -18771,7 +18771,7 @@ num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,
 1,Internet,RoundTrip,133,26,13,Thu,MELMRU,Australia,1,1,1,8.83,0
 2,Internet,RoundTrip,36,27,17,Thu,MELMRU,Mauritius,1,0,1,8.83,0
 2,Internet,RoundTrip,159,31,11,Mon,MELMRU,Australia,1,1,0,8.83,0
-1,Internet,RoundTrip,60,27,9,Wed,MELMRU,Réunion,1,0,0,8.83,0
+1,Internet,RoundTrip,60,27,9,Wed,MELMRU,Rï¿½union,1,0,0,8.83,0
 1,Internet,RoundTrip,63,32,11,Mon,MELMRU,Australia,1,1,1,8.83,0
 1,Internet,RoundTrip,48,57,6,Sun,MELMRU,Australia,1,1,1,8.83,0
 2,Internet,RoundTrip,12,38,4,Sat,MELMRU,Australia,1,1,1,8.83,0
